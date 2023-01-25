@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tejassh12" target="blank"><img src="https://img.shields.io/twitter/follow/tejassh12?logo=twitter&style=for-the-badge" alt="tejassh12" /></a> </p>
 
-- 🔭 I’m currently working on **Distributed Learning and Expense Tracker Project**
+- 🔭 I’m currently working on **Web Development Projects**
 
 - 🌱 I’m currently learning **React JS, Front-End Development, AWS, C++.**
 
