@@ -39,11 +39,13 @@
 
 <br>
 
+<h1 id="-github-stats-" align="center">📊 GitHub Stats:</h1>
+<br>
 <p align="center"><a href="https://quine.sh"><img src="https://stats.quine.sh/Tejas124/github?theme=dark" alt="Tejas124&#39;s GitHub | Stats"></a></p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas124&show_icons=true&locale=en&layout=compact" alt="tejas124" /></p> -->
 
-<h1 id="-github-stats-" align="center">📊 GitHub Stats:</h1>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tejas124&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas124&amp;theme=dark&amp;hide_border=false" alt=""><br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas124&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
